@@ -6,8 +6,8 @@
 
 This could be use as a starter boiler plate for a MERN stack
 
-- The Create button is fixed with body content
-- The Delete and Update button is fixed with MY SAMPLE \_ID , PLEASE CHANGE IT BASED ON YOUR DATABASE
+- The **Create** button is fixed with body content
+- The **Delete** and **Update** button is fixed with MY SAMPLE \_ID , PLEASE CHANGE IT BASED ON YOUR DATABASE
 
 ### Suggested Improvement:
 
@@ -37,3 +37,9 @@ MongoURI is fixed in `./server/mongo/mongoConnect.js`
 Backend Server Port is fixed in `./server/bin/www`
 
 ### References
+
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Express](https://www.tutorialspoint.com/expressjs/index.htm)
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org/en/)
